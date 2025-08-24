@@ -9,7 +9,7 @@ jobs:
   keepalive:
     runs-on: ubuntu-latest
     env:
-      URL: "https://jackedge-ygsb.hf.space/"
+      URL: "https://jackedge-gangpao.hf.space/"
       MAX_ATTEMPTS: 3
       BASE_SLEEP: 5
     steps:
